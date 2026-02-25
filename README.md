@@ -69,4 +69,4 @@ These wordlists are intended for authorized security testing and bug bounty prog
 
 ## Author
 
-**Jerry** — Bug bounty hunter
+--**Jerry1319**
